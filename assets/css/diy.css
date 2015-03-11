@@ -38,7 +38,7 @@ header .intro-content_ {
 }
 header .brand-name_ {
     font-size: 40px;
-    line-height: 30px;
+    line-height: 100%;
 }
 .text-align-left {
     text-align: left;
@@ -180,4 +180,10 @@ form .row:first-child .no-border {
 .img-center {
     display:block;
     margin:0 auto;
+}
+.padding-15 {
+    padding: 15px;
+}
+.height-cg p{
+    height: 260px;
 }
